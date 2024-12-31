@@ -1,0 +1,4 @@
+.env
+project_requirement.md
+__pycache__/
+test.py
