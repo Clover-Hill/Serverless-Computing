@@ -1,0 +1,33 @@
+{
+    "map_metrics": {
+        "total_execution_time (s)": 59.246468,
+        "total_oss_time (s)": 29.194736,
+        "total_time (s)": 147.207012,
+        "avg_execution_time_per_worker (s)": 2.962323,
+        "avg_oss_time_per_worker (s)": 1.459737,
+        "avg_total_time_per_worker (s)": 7.360351,
+        "execution_time_ratio (%)": 0.40247,
+        "oss_time_ratio (%)": 0.198324,
+        "total_memory (MB)": 308.70875,
+        "avg_memory_per_worker (MB)": 15.435437
+    },
+    "reduce_metrics": {
+        "total_execution_time (s)": 1.198397,
+        "total_time (s)": 33.855693,
+        "avg_execution_time_per_worker (s)": 0.05992,
+        "avg_total_time_per_worker (s)": 1.692785,
+        "execution_time_ratio (%)": 0.035397,
+        "total_memory (MB)": 64.044546,
+        "avg_memory_per_worker (MB)": 3.202227
+    },
+    "combined_metrics": {
+        "execution_time_ratio (%)": 0.333834,
+        "total_memory (MB)": 372.753296,
+        "avg_memory_per_worker (MB)": 9.318832
+    },
+    "global_metrics": {
+        "main_execution_time (s)": 15.62349,
+        "map_execution_time (s)": 9.007641,
+        "reduce_execution_time (s)": 3.254634
+    }
+}

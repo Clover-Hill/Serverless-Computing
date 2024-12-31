@@ -287,8 +287,6 @@ def main():
         word_freq = json.loads(content)
         for word, count in word_freq.items():
             agg_contents.append((word,count))
-    agg_contents.sort(key=lambda x: x[0])
-    
     spl_contents = split_contents(agg_contents, args.reduce_workers)
     
     start_time = time.time()

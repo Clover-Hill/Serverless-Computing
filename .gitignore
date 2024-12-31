@@ -2,3 +2,5 @@
 project_requirement.md
 __pycache__/
 test.py
+plot.py
+imgs/
